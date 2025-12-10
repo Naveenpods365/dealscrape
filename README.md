@@ -4,14 +4,7 @@
 
 **URL**: https://dealscraperuser.netlify.app/
 
-## How can I edit this code?
 
-There are several ways of editing your application.
-
-**Use **
-
-
-Changes made via  will be committed automatically to this repo.
 
 **Use your preferred IDE**
 
